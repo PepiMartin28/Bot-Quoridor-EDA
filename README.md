@@ -1,5 +1,5 @@
-# <p align="center"><a href="https://www.google.com/" target="_blank">
-    <img src="(https://realplaza.vtexassets.com/arquivos/ids/16784974/image-fc43cb9ccdd842bcac83b8ae1e3ae2ed.jpg?v=637606883897530000)">
+<p align="center"><a href="https://www.google.com/" target="_blank">
+    <img src="https://realplaza.vtexassets.com/arquivos/ids/16784974/image-fc43cb9ccdd842bcac83b8ae1e3ae2ed.jpg?v=637606883897530000">
 </a></p>
 
 # Bot-Quoridor-EDA
