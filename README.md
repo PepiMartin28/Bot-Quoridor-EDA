@@ -1,5 +1,5 @@
 #<p align="center"><a href="https://www.google.com/" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmaldon.com.ar%2Fblog%2Fprojects%2Fquoridor%2F&psig=AOvVaw2l5uqSg39ycuwF6U7RWwXZ&ust=1653679580136000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJja8NLy_fcCFQAAAAAdAAAAABAD)">
+    <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fmaldon.com.ar%2Fblog%2Fprojects%2Fquoridor%2F&psig=AOvVaw2l5uqSg39ycuwF6U7RWwXZ&ust=1653679580136000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJja8NLy_fcCFQAAAAAdAAAAABAD)](https://realplaza.vtexassets.com/arquivos/ids/16784974/image-fc43cb9ccdd842bcac83b8ae1e3ae2ed.jpg?v=637606883897530000)">
 </a></p>
 
 # Bot-Quoridor-EDA
